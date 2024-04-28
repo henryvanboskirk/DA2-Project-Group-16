@@ -2,7 +2,7 @@
 Plant Traits 2024 Kaggle Competition
 
 ## About the Project
-A full report to this project can be found in [Final Project]("C:\Users\zackd\OneDrive - University of Florida\DA2 Project Report.pdf")
+A full report to this project can be found in [Final Project](https://github.com/henryvanboskirk/DA2-Project-Group-16/blob/main/DA2%20Project%20Report.docm)
 
 ## Getting started
 
