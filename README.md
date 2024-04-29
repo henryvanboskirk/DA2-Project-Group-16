@@ -5,7 +5,8 @@ Plant Traits 2024 Kaggle Competition
 
 - [About the Project](#about-the-project)
     - [Getting Started](#getting-started)
-    - [Project Dependencies](#project-dependencies)
+          -  [Project Dependencies](#project-dependencies)
+- [Authors](#authors)
    
 
 ## About the Project
