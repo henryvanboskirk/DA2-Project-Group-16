@@ -39,28 +39,27 @@ pip install torchvision
 ```
 * sklearn
 
-``` pip install sklearn
-
+```bash
+pip install sklearn
+```
 * matplotlib
 ```bash
 pip install matplotlib
-
+```
 * seaborn
 ```bash
 pip install seaborn
-
+```
 *pandas
 
 ```bash
 pip install pandas
-
+```
 
 * numpy
-
-
 ```bash
 pip install numpy
-
+```
 ## Authors
 * Henry Van Boskirk
 * Zachary Debler
