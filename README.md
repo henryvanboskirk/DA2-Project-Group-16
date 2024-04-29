@@ -29,11 +29,10 @@ Below is a list of libraries required to run this project. Ensure that you insta
 
 * torch
 
-```bash
 pip install torch 
 
 * torchvision
-```bash
+
 pip install torchvision
 
 * sklearn
