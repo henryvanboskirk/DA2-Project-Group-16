@@ -6,6 +6,7 @@ Plant Traits 2024 Kaggle Competition
 1. [About the Project](#about-the-project)
     - [Getting Started](#getting-started)
       - [Project Dependencies](#project-dependencies)
+3. [Outputs](#outputs)
 2. [Authors](#authors)
    
 
@@ -60,6 +61,11 @@ pip install pandas
 ```bash
 pip install numpy
 ```
+## Outputs
+The output should be a 7 x 6545 grid of predictions that can be downloaded as a csv file in the area seen below
+[git]
+Once "submission" is downloaded it can be subnmitted back onto the [kaggle competition page](https://www.kaggle.com/competitions/planttraits2024/overview) to receive an accuracy score.
+
 ## Authors
 * Henry Van Boskirk
 * Zachary Debler
