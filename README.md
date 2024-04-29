@@ -63,7 +63,7 @@ pip install numpy
 ```
 ## Outputs
 The output should be a 7 x 6545 grid of predictions that can be downloaded as a csv file in the area seen below
-[git]{https://github.com/henryvanboskirk/DA2-Project-Group-16/blob/main/kaggle.png)
+![git]{https://github.com/henryvanboskirk/DA2-Project-Group-16/blob/main/kaggle.png)
 Once "submission" is downloaded it can be subnmitted back onto the [kaggle competition page](https://www.kaggle.com/competitions/planttraits2024/overview) to receive an accuracy score.
 
 ## Authors
