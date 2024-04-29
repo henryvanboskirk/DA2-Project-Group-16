@@ -29,7 +29,7 @@ Below is a list of libraries required to run this project. Ensure that you insta
 
 * torch
 
-pip install torch 
+```bash pip install torch 
 
 * torchvision
 
@@ -37,8 +37,7 @@ pip install torchvision
 
 * sklearn
 
-```bash
-pip install sklearn
+```bash pip install sklearn
 
 * matplotlib
 ```bash
