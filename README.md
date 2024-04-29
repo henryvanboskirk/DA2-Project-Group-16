@@ -3,9 +3,9 @@ Plant Traits 2024 Kaggle Competition
 
 ## Table of Contents
 
-- [About the Project](#main-section)
-    - [Getting Started](#subsection-1)
-        - [Project Dependencies](#sub-subsection-1)
+- [About the Project](#about-the-project)
+    - [Getting Started](#getting-started)
+    - [Project Dependencies](#project-dependencies)
    
 
 ## About the Project
