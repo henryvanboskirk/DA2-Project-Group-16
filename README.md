@@ -53,7 +53,7 @@ pip install seaborn
 ```bash
 pip install pandas
 
-*numpy
+```markdown *numpy
 
 ```bash
 pip install numpy
