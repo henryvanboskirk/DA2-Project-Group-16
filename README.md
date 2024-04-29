@@ -26,35 +26,34 @@ The files associated with our submission are
 
 ## Project Dependencies
 Below is a list of libraries required to run this project. Ensure that you install these specific versions to maintain compatibility with the project's code.
-
+```markdown
 * torch
 
 ```bash
-pip install torch ```
-
+pip install torch 
+```markdown
 * torchvision
-
 ```bash
 pip install torchvision
-
+```markdown
 * sklearn
 
 ```bash
 pip install sklearn
-
+```markdown
 * matplotlib
 ```bash
 pip install matplotlib
-
+```markdown
 * seaborn
 ```bash
 pip install seaborn
-
+```markdown
 *pandas
 
 ```bash
 pip install pandas
-
+```markdown
 *numpy
 
 ```bash
