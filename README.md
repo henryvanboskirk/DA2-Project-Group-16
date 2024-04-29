@@ -28,7 +28,8 @@ The files associated with our submission are
 Below is a list of libraries required to run this project. Ensure that you install these specific versions to maintain compatibility with the project's code.
 
 * torch
-``bash
+
+```bash
 pip install torch
 
 * torchvision
